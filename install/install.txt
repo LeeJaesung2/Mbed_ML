@@ -1,0 +1,7 @@
+install list
+
+Arduino Mbed OS Nano Board
+
+WiFININA
+ArduinoBLE
+edge_impulse
